@@ -1,0 +1,142 @@
+{
+    "generateOn": "2024-08-24 16:07:23",
+    "packageId": "3f5b2016-ce7a-4ba7-b5a7-46e731ba16bd",
+    "categories": [
+        {
+            "categoryId": "4de543e7-3ca2-4cd3-a745-9206dd008339",
+            "categoryName": "About the Meeting",
+            "subCategories": [
+                {
+                    "subCategoryId": "43fa9bae-df85-4181-997f-2f9b8aa1b79d",
+                    "subCategoryName": "Agenda Items",
+                    "sourceReference": "Resume, LinkedIn",
+                    "summary": [
+                        {
+                            "summaryId": "c3089a95-da3b-4303-a929-8a00ce20a208",
+                            "summaryText": "Young professional working in tech industry"
+                        },
+                        {
+                            "summaryId": "6d0bdbbb-09c2-4b85-96b2-ecfbe4146ed5",
+                            "summaryText": "Recently got married"
+                        }
+                    ],
+                    "insight": [
+                        {
+                            "insightId": "3384eb20-3aa5-47d1-b92f-90ec1e14bb45",
+                            "insightText": "High potential for career growth"
+                        },
+                        {
+                            "insightId": "f8a9eb7b-884e-4212-8339-00ce97222198",
+                            "insightText": "Need to update beneficiary information"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId": "ffd4cb25-e914-4144-8330-1cc69352632b",
+                    "subCategoryName": "Wealth Plan Review",
+                    "sourceReference": "Lease agreement",
+                    "summary": [
+                        {
+                            "summaryId": "041fd73e-3cf1-4dde-89bc-67c573145862",
+                            "summaryText": "Living in a rented apartment"
+                        },
+                        {
+                            "summaryId": "0fa86417-5083-43ec-a6db-9869c8561618",
+                            "summaryText": "Discussing investment options"
+                        }
+                    ],
+                    "insight": [
+                        {
+                            "insightId": "1cd982a6-c32f-4827-96f3-52b32113e8f2",
+                            "insightText": "Consider buying a house in the future"
+                        },
+                        {
+                            "insightId": "29192935-1be5-4a8c-a627-db2a5340a7b9",
+                            "insightText": "Risk tolerance is moderate"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryId": "a8a42d97-cfed-486c-9de8-8180bb6ebc2d",
+            "categoryName": "Financial recommandations",
+            "subCategories": [
+                {
+                    "subCategoryId": "3cb7e0d7-f378-42c2-819c-da809db20622",
+                    "subCategoryName": "Proposal Planning",
+                    "sourceReference": "Bank statements, Loan documents",
+                    "summary": [
+                        {
+                            "summaryId": "35b7d3fb-7f9e-42b8-9b92-fe1188f20e85",
+                            "summaryText": "Reviewing current assets and liabilities"
+                        }
+                    ],
+                    "insight": [
+                        {
+                            "insightId": "e8c7dc68-c18b-47dc-91ec-8564b16b77ad",
+                            "insightText": "Diversification needed in investment portfolio"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId": "3a522568-c632-4b95-9254-690c3fb62445",
+                    "subCategoryName": "Goal Review",
+                    "sourceReference": "Risk assessment questionnaire",
+                    "summary": [
+                        {
+                            "summaryId": "d48864ac-7817-491f-a8d7-f2b54d781b58",
+                            "summaryText": "Assessing risk appetite and investment goals"
+                        }
+                    ],
+                    "insight": [
+                        {
+                            "insightId": "9fad7a48-f441-4b97-abfe-6df643fcde65",
+                            "insightText": "Preference for long-term growth"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryId": "5617fb8f-a067-41f7-8b97-5d2feca124d2",
+            "categoryName": "Financial mindset",
+            "subCategories": [
+                {
+                    "subCategoryId": "77d25f2b-d712-46d8-a21d-e363fd033db5",
+                    "subCategoryName": "Investments",
+                    "sourceReference": "Market analysis report",
+                    "summary": [
+                        {
+                            "summaryId": "0251c669-ff5f-4e64-a5c3-2095643cd69b",
+                            "summaryText": "Worried about market volatility"
+                        }
+                    ],
+                    "insight": [
+                        {
+                            "insightId": "63655ad5-ec1b-44d2-aa83-1a58ec90c6c9",
+                            "insightText": "Consider diversifying into low-risk assets"
+                        }
+                    ]
+                },
+                {
+                    "subCategoryId": "3ca92cf5-900b-4b4a-b2e5-9824ee6fdfc3",
+                    "subCategoryName": "Financial Concerns",
+                    "sourceReference": "Financial goal worksheet",
+                    "summary": [
+                        {
+                            "summaryId": "79e7c329-3dae-4f70-a80a-acab2e279f3f",
+                            "summaryText": "Reviewing short-term and long-term financial goals"
+                        }
+                    ],
+                    "insight": [
+                        {
+                            "insightId": "24d65cd5-7f0d-4cdb-a7ea-6d5cf9869f17",
+                            "insightText": "Consider tax-efficient investment options"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
